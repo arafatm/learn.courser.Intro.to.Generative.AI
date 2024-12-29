@@ -1,0 +1,7 @@
+conflict-files-obsidian-git.md
+data.json
+.obsidian
+
+*.swp
+.trash
+.DS_Store
